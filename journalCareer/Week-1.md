@@ -87,3 +87,8 @@
 
 - Scheduling sessions with John Adams twice a week to go over anything I want to.  Get individualized help, 1 on 1 mentoring on a very regular, scheduled routine.  Use him to judge my progress, and hold me accountable for my own learning.  
 - This will help me be more confident of the material I am processing because last mod I was never sure if I was processing the information correctly and would find out later that how I was interpreting something was not compoletely accurate.
+
+### Directions: Link here
+
+- submit link to career journel in the survey found [here](https://forms.gle/NMMMNXpyuCLHNLhF8) 
+- due Monday May 11, 2020.
