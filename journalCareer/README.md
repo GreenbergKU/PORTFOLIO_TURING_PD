@@ -1,5 +1,6 @@
 # Career Journal Template - 2005 Cohort
-
+[link to career journal](https://github.com/turingschool/career-development-curriculum/blob/master/module_one/2005_career_journal.md)
+https://github.com/turingschool/career-development-curriculum/blob/master/module_one/2005_career_journal.md#week-3
 ## Overview
 * **What is a career journal?** The journal will help guide you through the process of discovering who you are as a new developer and how that translates into your career goals.  It’s a way to check in with yourself through self-reflection, prompts, and questions, organize your targeted job search, and remember who you met as you build a professional network.   
 * **Make it your own.** Add questions and areas to reflect on each week. Just don’t forget to share all of your successes and achievements along the way! 
@@ -75,6 +76,26 @@ Reflect:
 * Where do they clash?
 * Does one drive the other? How?
 ### Mod 1 Week 3: Habits & accountability systems to reach goals
+
+Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292)
+
+**Habits of a Software Developer**
+* What do you think are the traits of a good software developer? What are they like in the workplace? What would you as a co-worker think of this person?
+
+* What are the habits that this person demonstrates to embody the identity of a software developer?
+
+* Who do you want to be as a software developer? What kind of behaviors do you already have in place to be that person? What behaviors would you need to put into place? How will you do that?
+
+**Working on the 1st Law of Behavior Change: Make it Obvious**
+* Bring self-awareness to your current habits by making a Habits Scorecard. Make a list of your daily habits (examples: wake up, turn off alarm, check phone, etc.) as a way to bring awareness to what you do. Then, decide how effective that habit is for you and your goal of becoming a software developer. Put a + next to habits that are effective; put a - next to habits that are not effective; put a = next to habits that are neutral. 
+
+* Pick 1 new habit you'd like to build and create an implementation intention following this template: "I will [BEHAVIOR] at [TIME] in [LOCATION]." Then, stack the habit onto something you already do: "After [CURRENT HABIT], I will [NEW HABIT]." (Hint: make this highly specific and immediately actionable)
+
+* Design your environment for success: what changes could you make in your space to better implement your habit? How could you remove any triggers for bad habits? How will you implement these changes? 
+
+* Respond after a few days of this implementation: What are your results? How do you feel about this method? How will you move forward with this habit? 
+
+Additional Optional Reading: [The Five Triggers That Make New Habits Stick](https://jamesclear.com/habit-triggers)
 
 ### Mod 1 Week 4: Creating a Vision, Part I
 
