@@ -3,11 +3,13 @@
 <br>__TERM:__ MODULAR 1B
 <br>__DATE:__ 05/20/2020
 <br>__TYPE:__ PAIRED PROJECT
-<br>__GROUP MEMBER(S):__ RACHEL WILLIAMS
+<br>__GROUP MEMBER(S):__ SUZANNE WOLF & RACHEL WILLIAMS 
+<br>__PROJECT MANAGER:__ LETA
 <br>
 
-## Project Reflections
-Use this template to keep a log of reflections on each of your projects through Mod 1, 2, 3, and 4 at Turing. Feel free to add additional questions/prompts that you want to reflect on to help you prepare for future interviews. 
+# Project Reflection
+
+<!-- Use this template to keep a log of reflections on each of your projects through Mod 1, 2, 3, and 4 at Turing. Feel free to add additional questions/prompts that you want to reflect on to help you prepare for future interviews.  -->
 
 ## Abstract
 
@@ -16,9 +18,10 @@ Use this template to keep a log of reflections on each of your projects through 
 * Manipulate the page after it has loaded adding, removing, and updating elements on the DOM
 * Understand event bubbling and use event delegation on dynamic elements
 * Begin to understand how to write effective, clean HTML & CSS
+
 <!-- In a few sentences, explain **what** the project was and the scope of your work. Imagine explaining your answer to a technical recruiter or a developer who you'd potentially be interviewing with. -->
 
-## Overall (Choose one)
+## Overal (choose one)
 
 What is your approach to working on a team? (In your answer, provide an example from this project)?
 
@@ -32,8 +35,8 @@ What is your approach to working on a team? (In your answer, provide an example 
 - Tell me about a time you had a disagreement with a colleague and how you resolved it. (only choose if applicable to this project) 
 -->
 
+## Technical (choose one)
 
-## Technical (Choose one)
 
 What resources or strategies did you use when you were presented with a technical challenge?
 
@@ -44,14 +47,12 @@ What resources or strategies did you use when you were presented with a technica
   3. ask for help
   4. google search
 
-
-
-
 <!-- - What was a specific technical challenge your group faced? How did you approach this challenge? What went well? What was a struggle?
 - You can’t work out how to solve a coding problem. What do you do to find the answer?
  -->
 
  ## Reflection
+
 
 **What is one personal/professional takeaway from this project?**
 
