@@ -29,6 +29,10 @@ What is your approach to working on a team? (In your answer, provide an example 
 
   - I know that I would much rather have more informaiton than I need and fully understand where my partners are coming from.
   - So important to know exactly what others expect from you, and vice-versa.  
+ 
+ HERE IS A SCREENSHOT OF ONE OF OUR CONVERSATIONS IN SLACK, DISCUSSING HOW TO MOVE FORWARD AFTER ITERATION 2...
+
+<img width="400" alt="Screen Shot 2020-05-20 at 12 34 08 PM" src="https://user-images.githubusercontent.com/10098034/82489161-677d5a00-9a9e-11ea-94ad-ab841d9afcb2.png">
 
 <!-- 
 - What role do you typically play on a team? (If you answer, provide an example from this project)
