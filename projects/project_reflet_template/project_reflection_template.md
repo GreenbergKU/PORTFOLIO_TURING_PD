@@ -7,36 +7,39 @@ __PROJECT:__
 <br>
 
 # Project Reflections
-Use this template to keep a log of reflections on each of your projects through Mod 1, 2, 3, and 4 at Turing. Feel free to add additional questions/prompts that you want to reflect on to help you prepare for future interviews. 
+Often times in interviews, you will be asked to provide a detailed description of a time you worked in a team. The strongest interviewers are able to provide a detailed account of the project and cite specific examples to highlight wins and/or struggles. At Turing, we want you to being crafting your portfolio of "experiences" so that you can have several examples you can speak to when you are interviewing.
+
+<!-- #2005 INSTRUCTIONS
+Please create a private gist that highlights the prompts below. Take time to provide thoughtful and descriptive answers while the experience is still fresh in your mind so that you have a collection of reflections you can pull from when it is time to start interviewing! -->
 
 ## Abstract
-In a few sentences, explain **what** the project was and the scope of your work. Imagine explaining your answer to a technical recruiter or a developer who you'd potentially be interviewing with.
+
+In a few sentences, explain **what** the project was and the scope of your work. Imagine explaining your answer to a technical recruiter or a developer who you'd potentially be interviewing with who knows nothing about Turing.
 
 ## Overall (Choose one)
-* How do you think you did working with this group compared with groups you've worked with in the past?
 
-* If you were to work with this same group again, what is one change the group could make to work together more effectively?
+* What role do you typically play on a team? (If you answer, provide an example from this project)
 
-* What was the greatest challenge you had as a group?
+* What is your approach to working on a team? (In your answer, provide an example from this project)
 
-* How would you describe your role in this team? How often did you interact with other team members?
+* Tell me about a time you had a disagreement with a colleague and how you resolved it. (only choose if applicable to this project)
+
 
 ## Technical (Choose one)
-* What was a specific technical challenge your group faced? How did you approach this challenge? What went well? What was a struggle?
 
-* What resources or strategies did you use when you were presented with a technical challenge?
+- What was a specific technical challenge your group faced? How did you approach this challenge? What went well? What was a struggle?
+
+- What resources or strategies did you use when you were presented with a technical challenge?
+
+- You can’t work out how to solve a coding problem. What do you do to find the answer?
 
 ## Reflection
-* What lessons did you learn during this project? How have you applied these lessons in a recent project (or plan to)?
 
-## Group Project Reflections
-* What have you learned about the use of agile vs. waterfall in software projects?
+- What is one personal/professional takeaway from this project?
 
-* How did you and your group approach project management in this project (what tools did you use, how did you hold each other accountable, etc.)?
+- What is one technical takeaway from this project?
 
-* In your team retro, how did you engage in the feedback process? What principles of feedback did you use in these conversations?
-
-* How would you describe your ability to communicate feedback? How has this experience affected your communication skills? How do you want to improve in your ability to communicate feedback?
+- Based on these takeaways, what is something you want to focus on for the next project?
 
 
-[PROJECT REFLECTIONS: template](https://gist.github.com/GreenbergKU/7d33f7def3d3994ad059cf63ef8adf83#file-project_reflection_template-md)
+### **PROJECT REFLECTION TEMPLATE:** [link to my template.md](https://gist.github.com/GreenbergKU/7d33f7def3d3994ad059cf63ef8adf83#file-project_reflection_template-md)
