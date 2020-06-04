@@ -148,3 +148,7 @@ Optional additional reading: [How to Cultivate Beginner's Mind to Become a True 
 
 5. Write a refined vision statement here (what new things have you discovered this week to incorporate into your vision statement?):
 
+links:
+[link to brainstorming worksheet](https://docs.google.com/document/d/1qkIgAQIrMX34sy8EdCC6fnlbUaKRPutm_3dcTC457No/edit)
+
+[link to Flower Exercise Final Worksheet](https://docs.google.com/document/d/17zpOcrCtpG1K4vgJ6XHqpg5rGZnjJU1WFmOTV7bJDaM/edit)
